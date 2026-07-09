@@ -1,4 +1,3 @@
-# 📁 Pega aquí el contenido del README → Parte 1.2
 # Etapa 1: Build de Angular
 FROM node:20-alpine AS builder
 WORKDIR /app
