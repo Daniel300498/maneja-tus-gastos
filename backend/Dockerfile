@@ -1,4 +1,4 @@
-# 📁 Pega aquí el contenido del README → Parte 1.1
+
 FROM node:20-alpine AS builder
 WORKDIR /app
 COPY package*.json ./
